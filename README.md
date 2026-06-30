@@ -54,7 +54,10 @@ Here are some ideas to get you started:
 ## 📈 My GitHub Stats
 
 <!-- You can replace "your-username" with your actual GitHub username below -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vk-varun&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vk-varun&layout=compact&theme=radical) -->
+<!-- https://github.com/stats-organization/github-stats-extended -->
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=vk-varun&layout=compact&theme=radical)
+
 
 <!--
 ---
