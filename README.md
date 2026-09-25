@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm VK</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [CB Studio](app.creatorsblueprint.io)
+- 🔭 I’m currently working on [CB Studio](https://www.creatorsblueprint.io/)
 
 - 🌱 I’m currently learning **GoLang, Rust, Flask**
 
